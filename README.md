@@ -1,0 +1,2 @@
+# GaduGadu
+Projekt zaliczeniowy.
